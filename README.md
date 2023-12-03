@@ -5,7 +5,9 @@ I've created a small React application named "Login Form" that demonstrates user
 # Screenshots of my "Login Form" application
 
 <img width="960" alt="Screenshot 2023-12-03 031600" src="https://github.com/aterm577/101391769_comp3123_labex10/assets/126045035/8b1f606e-dde6-4cd0-9b69-7fb2558ea287">
+
 <img width="960" alt="Screenshot 2023-12-03 031627" src="https://github.com/aterm577/101391769_comp3123_labex10/assets/126045035/109b1415-912d-430c-a16a-a739973186aa">
+
 <img width="960" alt="Screenshot 2023-12-03 031652" src="https://github.com/aterm577/101391769_comp3123_labex10/assets/126045035/e71bee34-7225-41a3-af36-5e7247bea4fb">
 
 
